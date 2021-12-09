@@ -1,6 +1,6 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "당신은 망상증 환자가 아닙니다"
+subtitle: mbti N을 받은 당신을 위해
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
